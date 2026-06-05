@@ -25,4 +25,10 @@ Para cada situação, existem opções de escolha e o jogo mostra as consequênc
 
 - HTML5 → Estrutura do projeto  
 - CSS3 → Estilização e responsividade  
-- JavaScript (DOM + lógica) → Controle da narrativa e interatividade  
+- JavaScript (DOM + lógica) → Controle da narrativa e interatividade
+
+🖼️​ Imagens
+
+<img width="2048" height="1200" alt="127 0 0 1_5500_index html(Nest Hub)" src="https://github.com/user-attachments/assets/e6488002-b6f7-4476-a562-36817be72f7d" />
+<img width="2048" height="1200" alt="127 0 0 1_5500_index html(Nest Hub) (1)" src="https://github.com/user-attachments/assets/de35c69d-4708-48d3-8b01-141f08d272c5" />
+
