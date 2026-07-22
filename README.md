@@ -34,9 +34,6 @@ Imagens no desktop
 
 <img width="2048" height="1200" alt="127 0 0 1_5500_index html(Nest Hub) (2)" src="https://github.com/user-attachments/assets/a5233874-ec2a-4197-9024-dc77bd791fef" />
 
-<img width="2730" height="1600" alt="127 0 0 1_5500_index html(Nest Hub) (3)" src="https://github.com/user-attachments/assets/69c48f60-0aed-4a0c-a7c2-435c7f808a60" />
-
-
 
 
 
