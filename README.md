@@ -1,34 +1,35 @@
-# ⚖️ Simulador de Decisões Éticas
+⚖️ Simulador de Decisões Éticas
 
-Um projeto interativo em HTML, CSS e JavaScript que simula situações do dia a dia onde o usuário precisa tomar decisões éticas.  
-Cada escolha leva a um caminho diferente, mostrando consequências positivas ou negativas, de forma simples e didática.  
-
-
-## 🎮 Como funciona
-
-O usuário é colocado em cenários do cotidiano, como encontrar uma carteira, presenciar um furto ou ajudar um idoso.  
-Para cada situação, existem opções de escolha e o jogo mostra as consequências de cada decisão.  
-
-👉 O objetivo é **refletir sobre valores éticos** de forma divertida e interativa.
+Um aplicativo web interativo estilo "RPG de texto" focado em dilemas morais e éticos do cotidiano. O usuário toma decisões em cenários desafiadores que afetam o desenrolar e o final da sua jornada.
 
 
-## ✨ Funcionalidades
+Tecnologias Utilizadas
 
-- Exibição de situações com múltiplas escolhas
-- Caminhos diferentes dependendo da decisão tomada
-- Consequências visíveis para cada escolha
-- Botão para reiniciar a história e explorar novos caminhos
-- Layout simples e intuitivo
+Este projeto foi construído utilizando tecnologias modernas e leves, focadas em performance e experiência do usuário (UX):
+* **HTML5**: Estrutura semântica da página.
+* **Tailwind CSS (via CDN)**: Framework utilitário para estilização moderna, responsiva e em *Dark Mode*.
+* **JavaScript (ES6+)**: Lógica do jogo, manipulação do DOM e controle dinâmico de estados.
+* **Google Fonts (Inter)**: Tipografia limpa e profissional.
+* **CSS Animations**: Transições suaves entre as cenas da história.
 
 
-## 🛠 Tecnologias utilizadas
+📂 Estrutura de Arquivos
 
-- HTML5 → Estrutura do projeto  
-- CSS3 → Estilização e responsividade  
-- JavaScript (DOM + lógica) → Controle da narrativa e interatividade
+O projeto é composto por três arquivos principais na raiz:
 
-🖼️​ Imagens
+text
 
-<img width="2048" height="1200" alt="127 0 0 1_5500_index html(Nest Hub)" src="https://github.com/user-attachments/assets/e6488002-b6f7-4476-a562-36817be72f7d" />
-<img width="2048" height="1200" alt="127 0 0 1_5500_index html(Nest Hub) (1)" src="https://github.com/user-attachments/assets/de35c69d-4708-48d3-8b01-141f08d272c5" />
+├── index.html    # Estrutura visual e container principal
+├── style.css     # Animações customizadas e ajustes globais
+└── script.js     # Banco de dados da história e lógica de transição
+
+Imagens
+
+<img width="750" height="1334" alt="127 0 0 1_5500_index html(iPhone SE)" src="https://github.com/user-attachments/assets/3b9266a3-2d2f-48ef-a5bc-b8e086af54cf" />
+
+<img width="750" height="1334" alt="127 0 0 1_5500_index html(iPhone SE) (1)" src="https://github.com/user-attachments/assets/6d61675d-ed51-4e00-ba14-07213925dacf" />
+
+
+
+
 
